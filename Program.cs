@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, Class!");
+            
+            if (true) {
+                continue;
+            }
         }
     }
 }
